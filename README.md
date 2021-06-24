@@ -10,7 +10,7 @@ $ pkg install git
 
 $ git clone https://github.com/lordescreamo/antifakev3
 
-$ cd antifakev3
+$ cd sasukebot
 
 $ bash install.sh
 
@@ -29,8 +29,5 @@ $ pm2 monit
 
 Meu número no whatsapp
 
-+55 77 98100035
-
-
-//Base caus
-//Comandos Skiller
++55 77 98100035 
+////////////////////////
