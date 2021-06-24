@@ -8,7 +8,7 @@ $ apt upgrade
 
 $ pkg install git
 
-$ git clone https://github.com/lordescreamo/antifakev3
+$ git clone https://github.com/Mikaelguay1/sasukebot/edit/master/README.md
 
 $ cd sasukebot
 
